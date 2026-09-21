@@ -9,10 +9,7 @@ public class Calc {
 
     public int subtract(int x, int y)
     {
-        return x*y;
+        return x-y;
     }
-    public int subtract(int a, int b) {
-    return a - b;
-}
-
+    
 }
